@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Olayeni Gbenga Taofeek
+- 👋 Hi, I’m 👀 Developer
 - 😏 Preferred name George because it will be easy for my colleague to pronounce.
 - 👀 I’m interested in Web 3.0 (Crypto x Web Dev)
 - 🌱 I’m currently learning React Js
