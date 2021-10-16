@@ -1,5 +1,5 @@
-- 👋 Hi, I’m 👀 Developer
-- 😏 Preferred name George because it will be easy for my colleague to pronounce.
+- 👋 Hi, I’m 👀 Web Developer
+- 😏 Preferred name the George because it will be easy for my colleague to pronounce.
 - 👀 I’m interested in Web 3.0 (Crypto x Web Dev)
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking for WordPress Developer or Frontend Job
