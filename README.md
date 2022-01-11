@@ -2,7 +2,7 @@
 - 😏 work name/nick George not government name.
 - 👀 I’m interested in Web 3.0 (Crypto x Web Dev)
 - 🌱 I’m currently learning  Web 3.0
-- 💞️ I’m looking for WordPress Developer or Frontend Job Or Fullstack
+- 💞️ I’m looking for WordPress Developer or Frontend Job Or Fullstack Job
 - 📫 How to reach me contact@biadedigital.com
 - 🏌️ I am passionate about my job
 and always putting a smile on
